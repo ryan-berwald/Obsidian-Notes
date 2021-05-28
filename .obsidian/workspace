@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GCP/GCP Databases.md",
+            "file": "Dependencies.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCP/GCP Databases.md",
+                "file": "Dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "c217e1f0fd78a805",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Untitled.md",
+    "GCP/GCP Databases.md"
   ]
 }
